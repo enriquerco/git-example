@@ -6,4 +6,3 @@ Sincronizate guei!
 Added php file
 
 chao pescadito!
-cambiaditos
